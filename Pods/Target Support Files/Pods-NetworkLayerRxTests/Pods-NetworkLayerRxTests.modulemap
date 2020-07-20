@@ -1,0 +1,6 @@
+framework module Pods_NetworkLayerRxTests {
+  umbrella header "Pods-NetworkLayerRxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
